@@ -1,5 +1,5 @@
 //Saludo
-alert ("¡Bienvenido!")
+const saludo = alert ("¡Bienvenido!")
 
 //Menú Salado
 function menuSalado(){
